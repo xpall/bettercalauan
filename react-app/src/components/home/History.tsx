@@ -64,8 +64,8 @@ const historyCards: HistoryCard[] = [
   },
   {
     icon: 'bi-person-fill',
-    title: 'Calauaneños',
-    description: 'Residents of Calauan are called Calauaneños. The town is home to industrious farmers who cultivate the fertile lands at the foothills of Mount Kalisungan.',
+    title: 'Calaueños',
+    description: 'Residents of Calauan are called Calaueños. The town is home to industrious farmers who cultivate the fertile lands at the foothills of Mount Kalisungan.',
   },
   {
     icon: 'bi-star-fill',
